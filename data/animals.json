@@ -127,6 +127,27 @@
         "handsome"
       ],
       "id": "12"
+    },
+    {
+      "name": "Bigby",
+      "species": "catte",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "loving",
+        "goofy"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "Chloe",
+      "species": "catte",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious"
+      ],
+      "id": "14"
     }
   ]
 }
