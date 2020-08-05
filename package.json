@@ -1,0 +1,25 @@
+{
+  "name": "zookeeper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdlawton/zookeeper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdlawton/zookeeper/issues"
+  },
+  "homepage": "https://github.com/jdlawton/zookeeper#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^26.2.2"
+  }
+}
